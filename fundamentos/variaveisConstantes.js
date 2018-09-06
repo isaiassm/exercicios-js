@@ -6,7 +6,7 @@ let b = 4
 var a = 30
 b = 40
 
-//não se pode redeclarar variavel com let
+//não se pode redeclarar variavel com let se torna apenas uma
 
 console.log(a, b)
 
