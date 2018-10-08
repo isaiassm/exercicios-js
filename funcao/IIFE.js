@@ -5,4 +5,4 @@
     console.log('foge do escopo mais abrangente!')
 })()
 
-//para fugir do escopo global (window)
+//para fugir do escopo
